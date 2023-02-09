@@ -1,1 +1,1 @@
-prints the absolute path
+displays list of your connet
